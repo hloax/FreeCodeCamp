@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(57, 75, 158);
+}
+
+h1{
+ font-size:50px;
+ text-align:center;
+ text-shadow:rgb(255, 255, 255) 0px 1px 1px, rgb(0, 0, 0) 0px -1px 1px;
+ font-style:italic;
+ color:#000000;
+ font-family:'Racing Sans One', display;
+}
+
+#input{
+ text-align:center;
+ font-size:26px;
+ color:#e74c3c;
+}
+
+#output{
+    font-size:40px;
+    text-align:center;
+}
