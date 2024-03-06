@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(27, 27, 50);
+    text-align: center;
+    color: #fff;
+}
+
+#request{
+    text-align:center;
+    font-size:30px;
+    line-height:39px;
+}
+
+#results-div{
+    color:#93cfaa;
+    font-size:26px;
+    text-align:center;
+    min-height:170px;
+}
+
+#buttons{
+    text-align:center;
+}
+
+#check-btn,
+#clear-btn{
+    border-radius: 10px;
+    font-size:18px;
+}   
