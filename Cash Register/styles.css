@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    font-size: 35px;
+    background-color: darkcyan;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#cash {
+    background-color:#c3dede;
+    background-clip: border-box;
+    margin-top: 17px;
+}
+
+#purchase-btn {
+    margin-top: 15px;
+    background-color:#53589b;
+    border-radius: 10px;
+}
+
+/* #cash-in-drawer{
+ margin-bottom:260px;
+ min-height:257px;
+ width:27% !important;
+ transform:translatex(506px) translatey(9px);
+ border-style:dotted;
+ border-width:9px;
+ position:relative;
+}
+*/
